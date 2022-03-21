@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCanal xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Canal>
+    <Id>1</Id>
+    <Nome>felipe neto</Nome>
+  </Canal>
+  <Canal>
+    <Id>2</Id>
+    <Nome>widnerson nunes</Nome>
+  </Canal>
+</ArrayOfCanal>
