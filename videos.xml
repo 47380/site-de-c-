@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVideo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Video>
+    <Id>1</Id>
+    <Nome>kkkkk</Nome>
+    <Duracao>2022-03-21T00:09:00</Duracao>
+    <IdCanal>1</IdCanal>
+    <IdPlaylist>1</IdPlaylist>
+  </Video>
+</ArrayOfVideo>
