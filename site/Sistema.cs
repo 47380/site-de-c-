@@ -79,6 +79,7 @@ class Sistema{
     videos.Add(obj);
   }
   public static List<Video> ListarVideo(){
+    videos.Sort();
     return videos;
   }
    public static Video ListarVideo(int id){
@@ -112,6 +113,7 @@ class Sistema{
     canais.Add(obj);
   }
   public static List<Canal> ListarCanal(){
+    canais.Sort();
     return canais;
   }
   public static List<Video> ListarVideo(Canal canal){
