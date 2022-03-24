@@ -71,6 +71,6 @@ public class Video{
     return idCanal;
   }
   public override string ToString(){
-    return $"{id} - {nome} - {duracao: HH:mm:ss} - {idPlaylist} - {idCanal} -";
+    return $"{id} - {nome} - {duracao: HH:mm:ss}";
   }
 }
