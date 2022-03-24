@@ -44,6 +44,6 @@ public class Playlist{
     return idCanal;
   }
   public override string ToString(){
-    return $"{id} - {nome} - {idCanal}";
+    return $"{id} - {nome}";
   }
 }
